@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://miraidev.com" target="_blank"></s>
-        <img  src="./baclground.jpeg" alt="banner" />
+        <img  src="./profile/baclground.jpeg" alt="banner" />
     </a> 
 </div>
 
