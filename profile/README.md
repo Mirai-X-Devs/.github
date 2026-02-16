@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://miraidev.com" target="_blank"></s>
-        <img  src="./banner.webp" alt="banner" />
+        <img  src="/banner.webp" alt="banner" />
     </a> 
 </div>
 
